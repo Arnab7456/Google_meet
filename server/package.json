@@ -1,5 +1,5 @@
 {
-  "name": "google_meet",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "socket.io": "^4.7.2"
+    "socket.io": "^4.7.5"
   }
 }
